@@ -20,6 +20,7 @@ This project focuses on analyzing restaurant data using Machine Learning techniq
 ## Files:
 
 Dataset.csv
+
 app.py
 
 ## Description:
@@ -34,7 +35,9 @@ This module classifies restaurant cuisines based on given features using Machine
 ## Files:
 
 Dataset.csv
+
 Predicted_Ratings.csv
+
 main.py
 
 ## Description:
@@ -49,7 +52,9 @@ This project predicts restaurant ratings using regression models. It includes da
 ## Files:
 
 Dataset.csv
+
 app.py
+
 restaurants_map.html
 
 ## Description:
@@ -64,7 +69,9 @@ This module performs geospatial analysis of restaurants using latitude and longi
 ## Files:
 
 Dataset.csv
+
 app.py
+
 README.md
 
 ## Description:
@@ -74,9 +81,9 @@ A content-based recommendation system that suggests restaurants based on user pr
 
 ## 🛠️ Technologies Used
 
-Python 🐍
-Pandas & NumPy 📊
-Scikit-learn 🤖
+# Python 🐍
+# Pandas & NumPy 📊
+# Scikit-learn 🤖
 Streamlit / Flask (if used in apps) 🌐
 Folium (for maps) 🗺️
 Machine Learning Algorithms 📈
