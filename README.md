@@ -81,11 +81,16 @@ A content-based recommendation system that suggests restaurants based on user pr
 
 ## 🛠️ Technologies Used
 
-# Python 🐍
-# Pandas & NumPy 📊
-# Scikit-learn 🤖
+ Python 🐍
+ 
+ Pandas & NumPy 📊
+ 
+ Scikit-learn 🤖
+ 
 Streamlit / Flask (if used in apps) 🌐
+
 Folium (for maps) 🗺️
+
 Machine Learning Algorithms 📈
 
 ---
@@ -93,9 +98,13 @@ Machine Learning Algorithms 📈
 ## 🎯 Key Learnings
 
 ✔ Data Preprocessing & Cleaning
+
 ✔ Classification & Regression Models
+
 ✔ Recommendation Systems
+
 ✔ Geospatial Data Visualization
+
 ✔ Real-world ML Project Structuring
 
 ---
