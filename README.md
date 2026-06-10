@@ -1,106 +1,110 @@
-# Cognifyz_Tec_ML-4-Tasks
+## 🍽️ Restaurant ML Analytics System
 
-# 🤖 Cognifyz Technologies – Machine Learning Internship Projects
-
-This repository contains 4 machine learning tasks completed as part of the Cognifyz Technologies Internship Program.
+🚀 This repository contains a complete Machine Learning project with multiple real-world restaurant data science tasks including classification, prediction, recommendation, and location analysis.
 
 ---
 
-## 📌 Overview
+## 📌 Project Overview
 
-The projects focus on real-world data science and machine learning applications such as prediction, recommendation systems, classification, and geographical analysis using restaurant datasets.
-
----
-
-## 🧠 Task 1 – Predict Restaurant Ratings
-
-### 🎯 Objective:
-
-Build a regression model to predict restaurant ratings based on available features.
-
-### 🔧 Steps Performed:
-
-* Data preprocessing (handling missing values, encoding categorical data)
-* Splitting dataset into training and testing sets
-* Model training using regression algorithms
-* Evaluation using metrics like MSE and R² score
-* Feature importance analysis
+This project focuses on analyzing restaurant data using Machine Learning techniques to solve real-world problems such as rating prediction, cuisine classification, recommendation systems, and geospatial analysis.
 
 ---
 
-## 🍽️ Task 2 – Restaurant Recommendation System
 
-### 🎯 Objective:
+## 📂 Repository Structure
 
-Build a recommendation system based on user preferences.
+## 1️⃣ 🍜 Cuisine Classification
 
-### 🔧 Steps Performed:
+📁 Folder: Cuisine Classification
 
-* Data cleaning and preprocessing
-* Feature selection based on cuisine, price range, etc.
-* Content-based filtering approach
-* Generating recommendations based on similarity
-* Testing with sample user inputs
+## Files:
 
----
+Dataset.csv
+app.py
 
-## 🍛 Task 3 – Cuisine Classification
-
-### 🎯 Objective:
-
-Classify restaurants based on cuisine types using ML models.
-
-### 🔧 Steps Performed:
-
-* Data preprocessing and encoding
-* Train-test split
-* Model training using classification algorithms
-* Evaluation using accuracy, precision, and recall
-* Performance analysis across cuisines
+## Description:
+This module classifies restaurant cuisines based on given features using Machine Learning techniques. It helps in identifying cuisine types from restaurant data.
 
 ---
 
-## 📍 Task 4 – Location-Based Analysis
+## 2️⃣ ⭐ Restaurant Rating Prediction
 
-### 🎯 Objective:
+📁 Folder: Restaurant_Rating_Project
 
-Analyze restaurant distribution based on location data.
+## Files:
 
-### 🔧 Steps Performed:
+Dataset.csv
+Predicted_Ratings.csv
+main.py
 
-* Visualization of latitude and longitude data
-* City-wise grouping and analysis
-* Calculation of average ratings per location
-* Identification of trends and insights
+## Description:
+This project predicts restaurant ratings using regression models. It includes data preprocessing, model training, and prediction output generation.
+
+---
+
+## 3️⃣ 🗺️ Location Analysis of Restaurants
+
+📁 Folder: location-analysis
+
+## Files:
+
+Dataset.csv
+app.py
+restaurants_map.html
+
+## Description:
+This module performs geospatial analysis of restaurants using latitude and longitude. It visualizes restaurant locations on an interactive map and analyzes city-wise distribution.
+
+---
+
+## 4️⃣ 🍽️ Restaurant Recommendation System
+
+📁 Folder: restaurant-recommendation-system
+
+## Files:
+
+Dataset.csv
+app.py
+README.md
+
+## Description:
+A content-based recommendation system that suggests restaurants based on user preferences such as cuisine, ratings, and similarity using Cosine Similarity.
 
 ---
 
 ## 🛠️ Technologies Used
 
-* Python 🐍
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib / Seaborn
-* Machine Learning Algorithms
+Python 🐍
+Pandas & NumPy 📊
+Scikit-learn 🤖
+Streamlit / Flask (if used in apps) 🌐
+Folium (for maps) 🗺️
+Machine Learning Algorithms 📈
 
 ---
 
-## 📊 Key Insights
+## 🎯 Key Learnings
 
-✔ Rating prediction using ML regression
-✔ Personalized recommendation system
-✔ Cuisine-based classification model
-✔ Location-based restaurant insights
-
----
-
-## 🙌 Acknowledgement
-
-This project was completed as part of the **Cognifyz Technologies Machine Learning Internship Program**.
+✔ Data Preprocessing & Cleaning
+✔ Classification & Regression Models
+✔ Recommendation Systems
+✔ Geospatial Data Visualization
+✔ Real-world ML Project Structuring
 
 ---
 
-## 🏷️ Tags
 
-#machinelearning #datascience #python #internship #cognifyz #ai #mlprojects
+## 🚀 Project Goal
+
+To build real-world machine learning solutions for restaurant data and gain hands-on experience in data science, model building, and visualization.
+
+---
+
+
+## 🙏 Acknowledgement
+
+This project was built as part of my learning journey in Machine Learning and Data Science.
+
+---
+
+## ⭐ If you like this project, feel free to star the repository!
